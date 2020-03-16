@@ -1,0 +1,26 @@
+{
+  "black": [
+    {
+      "text": "The new party game in the Cesspit: It's basically ___ meets ___.",
+      "numResponses": 2
+    },
+    {
+      "text": "The latest mob to feature in Minecraft... ___!",
+      "numResponses": 1
+    },
+  ],
+  "white": [
+    {
+      "text": "Being a pleb tier PC user."
+    },
+    {
+      "text": "VR Master Race!"
+    },
+    {
+      "text": "Having a Creeper explode in your face."
+    },
+    {
+      "text": "Breaking the Minecraft economy."
+    },
+  ]
+}
